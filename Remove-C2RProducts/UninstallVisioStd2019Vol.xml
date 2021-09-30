@@ -1,0 +1,8 @@
+<Configuration>
+  <Remove>
+	<Product ID="VisioStd2019Volume"/>
+  </Remove>
+  <Display Level="None" AcceptEULA="TRUE" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+  <Logging Level="Standard" Path="C:\Windows\Temp\" />
+</Configuration>
